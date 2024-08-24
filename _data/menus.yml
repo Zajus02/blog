@@ -6,3 +6,6 @@
   
 - default: menu_about
   url: 'about'
+
+- title: 'RSS'
+  url: 'feed/pages.xml'
