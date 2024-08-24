@@ -8,4 +8,4 @@
   url: 'about'
 
 - title: 'RSS'
-  url: 'feed/pages.xml'
+  url: 'feed.xml'
