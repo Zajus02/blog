@@ -9,6 +9,6 @@ Personal blog with no aim in particular. Over the past twenty years I have writt
 Where to find me:
 - [Goodreads](https://www.goodreads.com/user/show/20783600-du-an-mrkvi-ka) (rarely updated these days)
 - [Rate Your Music](https://rateyourmusic.com/~zaJus)
-- Bandcamp of my avant-garde metal project [Directionless Vector](https://directionlessvector.bandcamp.com/)
+- [Bandcamp](https://directionlessvector.bandcamp.com/) of my avant-garde metal project Directionless Vector
 - Other socials: not a chance
 - Or just email me at [directionless@zajicek.eu](mailto:directionless@zajicek.eu)
