@@ -11,4 +11,4 @@ Where to find me:
 - [Rate Your Music](https://rateyourmusic.com/~zaJus)
 - Bandcamp of my avant-garde metal project [Directionless Vector](https://directionlessvector.bandcamp.com/)
 - Other socials: not a chance
-- Or just email me at [directionless@zajicek.eu](mailto://directionless@zajicek.eu)
+- Or just email me at [directionless@zajicek.eu](mailto:directionless@zajicek.eu)
