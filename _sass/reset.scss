@@ -13,11 +13,16 @@ body {
   height: 100%;
 }
 
-a {
+a:link {
   text-decoration: dashed;
   color: #000;
   text-decoration-color: #cd0f19;
-  ;
+}
+
+a:visited {
+  text-decoration: dashed;
+  color: #000;
+  text-decoration-color: #cd0f19;
 }
 
 a:hover {
