@@ -14,12 +14,16 @@ body {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: dashed;
   color: #000;
+  text-decoration-color: #cd0f19;
+  ;
 }
 
 a:hover {
-  color: #aaa;
+  color: #fff;
+  text-decoration: none;
+  background-color: #cd0f19;
 }
 
 blockquote {
