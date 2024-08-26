@@ -10,8 +10,8 @@ en:
   post_update_date: 'Modified:  '
   post_categories: 'Categories: '
   post_tags: 'Tags: '
-  post_previous: 'Previous: '
-  post_next: 'Next: '
+  post_previous: 'Previous post: '
+  post_next: 'Next post: '
   post_author: 'Author: '
   categories_title: 'Categories'
 
