@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
 // => prints 'Hello World!' to STDOUT.
 ```
 
-Check out the [Jekyll Paper docs][jekyll-paper-docs] or [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. If you have questions or suggestions, you can create an issue to asking them on [Jekyll Paper Issues][jekyll-paper-issues] or [Jekyll Talk][jekyll-talk].
+Check out the `[Jekyll Paper docs][jekyll-paper-docs]` or [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. If you have questions or suggestions, you can create an issue to asking them on [Jekyll Paper Issues][jekyll-paper-issues] or [Jekyll Talk][jekyll-talk].
 
 [jekyll-paper-docs]: https://github.com/ghosind/Jekyll-Paper/wiki
 [jekyll-docs]: https://jekyllrb.com/docs/home
