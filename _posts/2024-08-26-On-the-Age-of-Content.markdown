@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Active and Passive Entertainment
+title: On the Age of Content
 date: 2024-08-26
 categories: Technology
 tags:
