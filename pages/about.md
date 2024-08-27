@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![Definitely not me](https://blog.zajicek.eu/assets/images/NotMe.jpeg)
+![Definitely not me](https://blog.zajicek.eu/assets/images/NotMeSmall.jpeg)
+*Most definitely not me*
 
 Personal blog with no aim in particular. Over the past twenty years I have written for various publications about [technology](https://web.archive.org/web/20040607043254/http://www.beinspired.cz/), [computer games](https://web.archive.org/web/20080706124957/http://wolfet.biz/) and [music](https://sicmaggot.cz/author/zajus/). This blog is a place for me to write with no boundaries at all.
 
