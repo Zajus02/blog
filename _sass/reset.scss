@@ -13,16 +13,10 @@ body {
   height: 100%;
 }
 
-a:link {
-  text-decoration: dashed;
+a {
+  // text-decoration: dashed;
   color: #000;
-  text-decoration-color: #cd0f19;
-}
-
-a:visited {
-  text-decoration: dashed;
-  color: #000;
-  text-decoration-color: #cd0f19;
+  // text-decoration-color: #cd0f19;
 }
 
 a:hover {
@@ -32,9 +26,9 @@ a:hover {
 }
 
 em {
-  text-decoration: dashed;
-  color: #000;
-  text-decoration-color: #cd0f19;
+  //text-decoration: dashed;
+  //color: #000;
+  //text-decoration-color: #cd0f19;
 }
 
 blockquote {
