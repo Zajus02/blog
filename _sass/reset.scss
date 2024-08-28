@@ -15,7 +15,19 @@ body {
 
 a {
   text-decoration: none;
-  // color: #cd0f19;
+  color: #000;
+  // text-decoration-color: #cd0f19;
+}
+
+a:link {
+  text-decoration: none;
+  color: #000;
+  // text-decoration-color: #cd0f19;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #000;
   // text-decoration-color: #cd0f19;
 }
 
