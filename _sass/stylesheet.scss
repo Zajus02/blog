@@ -16,3 +16,12 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'servermono_regular';
+    src: url('https://blog.zajicek.eu/assets/fonts/ServerMono-Regular.woff2') format('woff2'),
+         url('https://blog.zajicek.eu/assets/fonts/ServerMono-Regular.woff') format('woff'),
+	 url('https://blog.zajicek.eu/assets/fonts/ServerMono-Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;	
+}
+
