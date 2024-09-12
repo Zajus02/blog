@@ -17,6 +17,11 @@
     margin: 10px 0 5px 0;
   }
 
+  .post-content {
+  // scrollable for mobile devices
+  overflow-x: scroll;
+  }
+
   /* Footer */
   .footer-copyright .float-left,
   .footer-copyright .float-right {
