@@ -82,6 +82,7 @@ ol,
 ul {
   margin-left: 35px;
   margin-bottom: 20px;
+  font-family: servermono_regular, monospace;
 }
 
 p {
@@ -106,10 +107,22 @@ td {
 th {
   padding: 8px;
   border-bottom: 1px solid #ccc;
-  background: #f5f5f5;
+  // background: #f5f5f5;
 }
 
 // markdown reset
 a.reversefootnote {
   display: none;
+}
+
+.footnotes {
+  font-size: 0.8em;
+}
+
+.thead {
+  background: #f5f5f5;
+}
+
+.tbody {
+  background: #f5f5f5;
 }
