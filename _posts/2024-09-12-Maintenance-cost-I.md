@@ -31,6 +31,7 @@ But it gets much worse if you don’t have the cash to pay for the house upfront
 | Years to pay mortgage (5% interest rate assumed) | 14           | 31           | Same interest rate in both cases                               |
 | Total interest paid (5% interest rate assumed)   | €235,502     | €911,176     | Impact of a much longer repayment period                       |
 
+
 So, what’s the impact? You’ll have a much larger mortgage and slightly less money for monthly payments. The result? `Seventeen extra years of payments` and more than quadrupling the interest paid to the bank. If you buy the house at 35 (after saving for the down payment), you’ll be mortgage-free at 49 with the smaller house—or 66 with the bigger one. In other words, you can either retire in middle age or work until your death—for an extra 50 m² of floor space.
 
 But, you may ask, won’t the larger house be more valuable in the long run? Financially speaking, won’t it be worth working those extra years? Let’s examine that. Suppose your property appreciates at 5% annually, regardless of size. After 31 years, this will add 354% to your house’s purchase price. The 1 million house will be worth 4.5 million, and the 1.3 million house will be worth 5.9 million. The extra 1.4 million in market value is more than double the extra interest paid. So, what’s the issue? Maintenance, utility, and tax costs, which you’ve been paying all along. Check the following table:
@@ -43,6 +44,7 @@ But, you may ask, won’t the larger house be more valuable in the long run? Fin
 | Total amount paid for property and maintenance | €1,645,502   | €2,785,176   | Including interest paid to the bank     |
 | Property value appreciation                    | €3,538,039   | €4,599,451   | Value increase over purchase price      |
 | Net profit after 31 years                      | €1,892,537   | €1,814,275   |                                         |
+
 
 Behold, not only have you spent an extra 17 years working to pay the mortgage, but you also lost money in the process. Your net profit (house appreciation minus maintenance costs and interest) is actually lower with the larger house.
 
@@ -66,6 +68,7 @@ With that established, let’s explore the other direction. What if you downsize
 | Total amount paid for the property and maintenance | €1,645,502   | €2,785,176   | €1,534,128      |
 | Property value appreciation                        | €3,538,039   | €4,599,451   | €3,538,039      |
 | Net profit after 31 years                          | €1,892,537   | €1,814,275   | €2,003,911      |
+
 
 As expected, the smaller apartment offers the best investment overall, as the mortgage is paid off earlier, reducing interest. The lower maintenance and utility costs also help. Additionally, time saved from commuting can be spent in far more pleasant ways.
 
