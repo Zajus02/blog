@@ -17,19 +17,19 @@ But it gets much worse if you don’t have the cash to pay for the house upfront
 
 |                                                  | 100 m² house | 150 m² house | Notes                                                          |
 | ------------------------------------------------ | ------------ | ------------ | -------------------------------------------------------------- |
-| Purchase cost                                    | 1,000,000 €  | 1,300,000 €  | 1.3x factor thanks to the economy of scale                     |
-| Furnishing cost                                  | 100,000 €    | 140,000 €    | 1.4x factor as the economy of scale applies to a lesser degree |
-| Total cost of purchase                           | 1,100,000 €  | 1,440,000 €  | Purchase cost + furnishing cost                                |
-| Money in the bank                                | 500,000 €    | 500,000 €    | Same amount in your bank account                               |
-| Mortgage size                                    | 600,000 €    | 940,000 €    | Total cost of purchase minus money in the bank                 |
+| Purchase cost                                    | €1,000,000   | €1,300,000   | 1.3x factor thanks to the economy of scale                     |
+| Furnishing cost                                  | €100,000     | €140,000     | 1.4x factor as the economy of scale applies to a lesser degree |
+| Total cost of purchase                           | €1,100,000   | €1,440,000   | Purchase cost + furnishing cost                                |
+| Money in the bank                                | €500,000     | €500,000     | Same amount in your bank account                               |
+| Mortgage size                                    | €600,000     | €940,000     | Total cost of purchase minus money in the bank                 |
 |                                                  |              |              |                                                                |
-| Yearly income after taxes                        | 100,000 €    | 100,000 €    | Salary is not related to property size                         |
-| Yearly property maintenance and utility costs    | 10,000 €     | 14,000 €     | 1.4x factor due to small help from the economy of scale        |
-| Other yearly expenses unrelated to property size | 30,000 €     | 30,000 €     | Not related to property size                                   |
-| Money available to pay the mortgage (per year)   | 60,000 €     | 56,000 €     | Less money available per year due to higher ownership costs    |
+| Yearly income after taxes                        | €100,000     | €100,000     | Salary is not related to property size                         |
+| Yearly property maintenance and utility costs    | €10,000      | €14,000      | 1.4x factor due to small help from the economy of scale        |
+| Other yearly expenses unrelated to property size | €30,000      | €30,000      | Not related to property size                                   |
+| Money available to pay the mortgage (per year)   | €60,000      | €56,000      | Less money available per year due to higher ownership costs    |
 |                                                  |              |              |                                                                |
 | Years to pay mortgage (5% interest rate assumed) | 14           | 31           | Same interest rate in both cases                               |
-| Total interest paid (5% interest rate assumed)   | 235,502 €    | 911,176 €    | Impact of a much longer repayment period                       |
+| Total interest paid (5% interest rate assumed)   | €235,502     | €911,176     | Impact of a much longer repayment period                       |
 
 So, what’s the impact? You’ll have a much larger mortgage and slightly less money for monthly payments. The result? `Seventeen extra years of payments` and more than quadrupling the interest paid to the bank. If you buy the house at 35 (after saving for the down payment), you’ll be mortgage-free at 49 with the smaller house—or 66 with the bigger one. In other words, you can either retire in middle age or work until your death—for an extra 50 m² of floor space.
 
@@ -39,10 +39,10 @@ But, you may ask, won’t the larger house be more valuable in the long run? Fin
 | ---------------------------------------------- | ------------ | ------------ | --------------------------------------- |
 | Annual property value appreciation             | 5%           | 5%           |                                         |
 | Compounded appreciation after 31 years         | 354%         | 354%         |                                         |
-| Property value after 31 years                  | 4,538,039 €  | 5,899,451 €  | Purchase price + 5% yearly appreciation |
-| Total amount paid for property and maintenance | 1,645,502 €  | 2,785,176 €  | Including interest paid to the bank     |
-| Property value appreciation                    | 3,538,039 €  | 4,599,451 €  | Value increase over purchase price      |
-| Net profit after 31 years                      | 1,892,537 €  | 1,814,275 €  |                                         |
+| Property value after 31 years                  | €4,538,039   | €5,899,451   | Purchase price + 5% yearly appreciation |
+| Total amount paid for property and maintenance | €1,645,502   | €2,785,176   | Including interest paid to the bank     |
+| Property value appreciation                    | €3,538,039   | €4,599,451   | Value increase over purchase price      |
+| Net profit after 31 years                      | €1,892,537   | €1,814,275   |                                         |
 
 Behold, not only have you spent an extra 17 years working to pay the mortgage, but you also lost money in the process. Your net profit (house appreciation minus maintenance costs and interest) is actually lower with the larger house.
 
@@ -50,22 +50,22 @@ With that established, let’s explore the other direction. What if you downsize
 
 |                                                    | 100 m² house | 150 m² house | 75 m² apartment |
 | -------------------------------------------------- | ------------ | ------------ | --------------- |
-| Purchase cost                                      | 1,000,000 €  | 1,300,000 €  | 1,000,000 €     |
-| Furnishing cost                                    | 100,000 €    | 140,000 €    | 85,000 €        |
-| Total cost of purchase                             | 1,100,000 €  | 1,440,000 €  | 1,085,000 €     |
-| Money in the bank                                  | 500,000 €    | 500,000 €    | 500,000 €       |
-| Mortgage size                                      | 600,000 €    | 940,000 €    | 585,000 €       |
-| Yearly income after taxes                          | 100,000 €    | 100,000 €    | 100,000 €       |
-| Yearly property maintenance and utility costs      | 10,000 €     | 14,000 €     | 8,500 €         |
-| Other yearly expenses unrelated to property size   | 30,000 €     | 30,000 €     | 25,000 €        |
-| Money available to pay the mortgage                | 60,000 €     | 56,000 €     | 66,500 €        |
+| Purchase cost                                      | €1,000,000   | €1,300,000   | €1,000,000      |
+| Furnishing cost                                    | €100,000     | €140,000     | €85,000         |
+| Total cost of purchase                             | €1,100,000   | €1,440,000   | €1,085,000      |
+| Money in the bank                                  | €500,000     | €500,000     | €500,000        |
+| Mortgage size                                      | €600,000     | €940,000     | €585,000        |
+| Yearly income after taxes                          | €100,000     | €100,000     | €100,000        |
+| Yearly property maintenance and utility costs      | €10,000      | €14,000      | €8,500          |
+| Other yearly expenses unrelated to property size   | €30,000      | €30,000      | €25,000         |
+| Money available to pay the mortgage                | €60,000      | €56,000      | €66,500         |
 | Years to pay mortgage (5% interest rate assumed)   | 14           | 31           | 12              |
-| Total interest paid (5% interest rate assumed)     | 235,502 €    | 911,176 €    | 194,128 €       |
+| Total interest paid (5% interest rate assumed)     | €235,502     | €911,176     | €194,128        |
 |                                                    |              |              |                 |
-| Property value after 31 years                      | 4,538,039 €  | 5,899,451 €  | 4,538,039 €     |
-| Total amount paid for the property and maintenance | 1,645,502 €  | 2,785,176 €  | 1,534,128 €     |
-| Property value appreciation                        | 3,538,039 €  | 4,599,451 €  | 3,538,039 €     |
-| Net profit after 31 years                          | 1,892,537 €  | 1,814,275 €  | 2,003,911 €     |
+| Property value after 31 years                      | €4,538,039   | €5,899,451   | €4,538,039      |
+| Total amount paid for the property and maintenance | €1,645,502   | €2,785,176   | €1,534,128      |
+| Property value appreciation                        | €3,538,039   | €4,599,451   | €3,538,039      |
+| Net profit after 31 years                          | €1,892,537   | €1,814,275   | €2,003,911      |
 
 As expected, the smaller apartment offers the best investment overall, as the mortgage is paid off earlier, reducing interest. The lower maintenance and utility costs also help. Additionally, time saved from commuting can be spent in far more pleasant ways.
 
