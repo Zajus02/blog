@@ -43,6 +43,7 @@ But, you may ask, won’t the larger house be more valuable in the long run? Fin
 | Total amount paid for property and maintenance | 1,645,502 €  | 2,785,176 €  | Including interest paid to the bank     |
 | Property value appreciation                    | 3,538,039 €  | 4,599,451 €  | Value increase over purchase price      |
 | Net profit after 31 years                      | 1,892,537 €  | 1,814,275 €  |                                         |
+
 Behold, not only have you spent an extra 17 years working to pay the mortgage, but you also lost money in the process. Your net profit (house appreciation minus maintenance costs and interest) is actually lower with the larger house.
 
 With that established, let’s explore the other direction. What if you downsize further and buy a smaller place, perhaps closer to where your family works and goes to school? Let’s say you opt for a 75 m² apartment in the city instead of the 100 m² house outside of town, assuming it costs the same as the 100 m² house. Now, your savings come from lower yearly maintenance and reduced commuting costs. Let’s make some assumptions and compare all three options side by side:
@@ -65,6 +66,7 @@ With that established, let’s explore the other direction. What if you downsize
 | Total amount paid for the property and maintenance | 1,645,502 €  | 2,785,176 €  | 1,534,128 €     |
 | Property value appreciation                        | 3,538,039 €  | 4,599,451 €  | 3,538,039 €     |
 | Net profit after 31 years                          | 1,892,537 €  | 1,814,275 €  | 2,003,911 €     |
+
 As expected, the smaller apartment offers the best investment overall, as the mortgage is paid off earlier, reducing interest. The lower maintenance and utility costs also help. Additionally, time saved from commuting can be spent in far more pleasant ways.
 
 At first glance, this example may seem unrelated to maintenance, but the reverse is true. `The difference between these scenarios is largely driven by maintenance costs.` The €300k extra price for the bigger house is only a small part of the overall expense; the recurring payments snowball over time. These payments will quite literally cost you a significant portion of your life for what, in my opinion, is a rather meager payoff.
