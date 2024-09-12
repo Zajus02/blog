@@ -15,7 +15,7 @@ You’re buying a house. You could comfortably live in a 100 m² house, but due 
 
 But it gets much worse if you don’t have the cash to pay for the house upfront[^3]. Depending on your down payment, your mortgage will grow disproportionately compared to the floor space gained. Let’s say you can pay half the cost of the smaller house upfront. That could already be a sizable mortgage and a big future commitment. However, `if the bigger house costs 30% more, you’ll need to borrow 60% more` (see the example calculation below), because you still have the same amount of savings to begin with. This dramatically increases the total interest paid to the bank—not only are you borrowing more, but you’ll also have less disposable income for your monthly mortgage payments, since the bigger house will cost you more in yearly maintenance, utilities, and taxes. Here’s a potential (and somewhat speculative) illustration in the table below, using random but consistent figures.
 
-|                                                  | 100 m² house | 150 m² house | Notes                                                          |
+|                                                  | 100 m² house | 150 m² house |                                                                |
 | ------------------------------------------------ | ------------ | ------------ | -------------------------------------------------------------- |
 | Purchase cost                                    | €1,000,000   | €1,300,000   | 1.3x factor thanks to the economy of scale                     |
 | Furnishing cost                                  | €100,000     | €140,000     | 1.4x factor as the economy of scale applies to a lesser degree |
@@ -36,7 +36,7 @@ So, what’s the impact? You’ll have a much larger mortgage and slightly less 
 
 But, you may ask, won’t the larger house be more valuable in the long run? Financially speaking, won’t it be worth working those extra years? Let’s examine that. Suppose your property appreciates at 5% annually, regardless of size. After 31 years, this will add 354% to your house’s purchase price. The 1 million house will be worth 4.5 million, and the 1.3 million house will be worth 5.9 million. The extra 1.4 million in market value is more than double the extra interest paid. So, what’s the issue? Maintenance, utility, and tax costs, which you’ve been paying all along. Check the following table:
 
-|                                                | 100 m² house | 150 m² house | Notes                                   |
+|                                                | 100 m² house | 150 m² house |                                         |
 | ---------------------------------------------- | ------------ | ------------ | --------------------------------------- |
 | Annual property value appreciation             | 5%           | 5%           |                                         |
 | Compounded appreciation after 31 years         | 354%         | 354%         |                                         |
