@@ -2,7 +2,7 @@
 layout: post
 title: How extra floor space makes your life miserable
 date: 2024-09-12
-categories: General ramblings
+categories: Ramblings
 tags:
 ---
 Einstein is often credited for the observation that people underestimate the power of compound interest.[^1] While this may be true, there is a second, inverse version of the same statement: people also underestimate the impact of maintenance costs.
