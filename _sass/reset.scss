@@ -99,6 +99,7 @@ table {
   background-color: #f5f5f5;
   font-size: 0.9em;
   margin-bottom: 20px;
+  border-collapse: collapse;
 }
 
 tbody tr:hover {
@@ -123,13 +124,13 @@ tbody {
 }
 
 td {
-  // padding: 8px;
+  padding: 8px;
   border: 1px solid #ddd;
   // background-color: #f5f5f5;
 }
 
 th {
-  // padding: 8px;
+  padding: 8px;
   border: 1px solid #ccc;
   border-bottom: 2px solid #ccc;
   // background: #f5f5f5;
