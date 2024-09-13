@@ -3,7 +3,7 @@ layout: post
 title: The age of content
 date: 2024-08-26
 last_modified_at: 2024-09-09
-categories: Technology
+categories: Technologymarkdownmarkdown
 tags:
 ---
 
