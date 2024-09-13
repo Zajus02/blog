@@ -109,7 +109,12 @@ thead {
   color: #cd0f19;
 }
 
-tr {
+tr,
+td,
+th,
+table,
+tbody,
+thead, {
   background-color: #f5f5f5;
 }
 
