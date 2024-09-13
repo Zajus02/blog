@@ -47,4 +47,4 @@ You may object that no great movies were filmed, no great songs composed, and no
 
 `We are entering the age of content`, an era in which, if you want to share something with the world, you don't have to overcome any IT obstacles. It’s exciting and frightening at the same time. It has the power to change people's lives. What you do at thirteen doesn’t define your entire future, but it can give you a hint and help build a foundation you can use for many years to come. Whether you end up as a florist with a passion for and understanding of filmmaking or a salesperson with an IT background might not matter at all in the end. But it could.
 
-Originally written circa 2013. Slightly revised in 2024.
+*Originally written circa 2013. Slightly revised in 2024.*
