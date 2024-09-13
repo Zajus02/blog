@@ -82,7 +82,10 @@ ol,
 ul {
   margin-left: 35px;
   margin-bottom: 20px;
-  font-family: servermono_regular, monospace;
+}
+
+li {
+   font-family: servermono_regular, monospace;
 }
 
 p {
@@ -108,7 +111,7 @@ thead {
 }
 
 tr {
-  background-color: #f5f5f5;
+  // background-color: #f5f5f5;
 }
 
 tbody {
@@ -118,7 +121,7 @@ tbody {
 td {
   padding: 8px;
   border-bottom: 1px solid #ddd;
-  background-color: #f5f5f5;
+  // background-color: #f5f5f5;
 }
 
 th {
