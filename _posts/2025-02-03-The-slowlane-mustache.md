@@ -22,11 +22,9 @@ There is undeniable logic in this, and DeMarco is probably right that a typical 
 Rather than imagining an ideal lifestyle and reverse-engineering a way to finance it, I find it much more logical to focus on achieving high day-to-day happiness. Maybe Hans' job won’t pay for a Lambo and a condo in the mountains, but if he enjoys it and it provides him enough money to ensure financial security (if not total freedom) while giving him enough time for his family and hobbies, it might be better than spending years chasing business ventures, working 24/7, and straining relationships—all in pursuit of a golden future where he would be the one who “made it.” On the other hand, if if he's twenty and ready to take risks, DeMarco provides a solid starting guide and a motivational pep talk as good as any.
 
 #### Recommended reading
-
-M.J. DeMarco - The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!
-[Mr. Money Mustashe](https://www.mrmoneymustache.com/)
+1. [M.J. DeMarco - The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!](https://bookshop.org/p/books/the-millionaire-fastlane-crack-the-code-to-wealth-and-live-rich-for-a-lifetime-m-j-demarco/7035144?ean=9780984358106&next=t&next=t)
+2. [Mr. Money Mustashe](https://www.mrmoneymustache.com/)
 
 #### Footnotes
-
 [^1]: DeMarco delves into great depth about which types of businesses qualify for high-income potential. My takeaway is there are two key factors: control and scalability. Control—because if you don’t own the brand, you don’t own your customer relationships and can be cut off at any time. Scalability—because if you can only serve as many customers as your time allows, your business is merely a slightly better job. This section of the book is quite insightful and could serve as a useful Business 101 for many aspiring entrepreneurs. 
 [^2]: Although this could be debated, I’d personally rather drive the new Hyundai IONIQ 5 N than any impractical supercar.
