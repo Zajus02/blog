@@ -137,34 +137,34 @@ permalink: /photography/
 *May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2011-002.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+**Fading**
+BRAKE *August 2011 | Southern Bohemia | Nikon D70 | f/4.3, 1/640, ISO 200*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2011-001.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+**Searching for food**
+*July 2011 | Southern Bohemia | Nikon D70 | f/4.1, 1/1000, ISO 800*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2010-001.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+**Conversing with a ghost**
+*July 2010 | Budapest, Hungary | Nikon D70 | f/4.5, 0.77s, ISO 200*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2009-003.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+**Colorful**
+*July 2009 | Dolomites | Nikon D70*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2009-002.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+**Oh HDR, thy outputs are dramatic**
+*July 2009  | Dolomites | Nikon D70*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2009-001.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+**The Earth is slowly boiling**
+*July 2009 | Dolomites | Nikon D70 | f/7.1, 1/800, ISO 200*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2008-002.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+**The Tunnel**
+*May 2008 | Southern Bohemia | Canon PowerShot S5 IS | f/3.5, 1/20, ISO 80*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2008-001.jpg)
 **Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+*May 2008 | Southern Bohemia | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
 
