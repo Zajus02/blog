@@ -89,6 +89,11 @@ img {
   max-width: 1000px;
 }
 
+@media (orientation: landscape) and (max-width: 1921px) {
+  img {
+    max-height: 600px;
+  }
+
 ol,
 ul {
   margin-left: 35px;
