@@ -11,12 +11,12 @@
   // scrollable for mobile devices
   // overflow-x: scroll;
   font-size: 1.1em;
-  line-height: 1.3;
+  //line-height: 1.3;
 }
 
-//.post-content p {
-//  line-height: 20px;
-//}
+.post-content p {
+  line-height: 1.3;
+}
 
 .post-content img {
   display: block;
