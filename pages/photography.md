@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Photography
-permalink: /photography/
+title: Photos
+permalink: /photos/
 ---
 
 ![Test](https://blog.zajicek.eu/assets/photos/2020-004.jpg)
