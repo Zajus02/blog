@@ -105,40 +105,36 @@ permalink: /photography/
 *May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2011-010.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
-
-![Test](https://blog.zajicek.eu/assets/photos/2011-009.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
-
-![Test](https://blog.zajicek.eu/assets/photos/2011-008.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
-
-![Test](https://blog.zajicek.eu/assets/photos/2011-007.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
-
-![Test](https://blog.zajicek.eu/assets/photos/2011-006.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+**Smoke**
+*September 2011 | Nikon D70 | Drábské světničky, Czech Repiblic | f/7.1, 1/1000, ISO 200*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2011-005.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+**National Theather**
+*September 2011 | Prague, Czech Republic | Nikon D70 | f/4.5, 1/8 ISO 800*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2011-004.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+**Ascending**
+*August 2011 | Brestová, Tatra Mountains, Slovakia | Nikon D70 | f/8, 1/250, ISO 200*
+
+![Test](https://blog.zajicek.eu/assets/photos/2011-008.jpg)
+**Ridgeway**
+*August 2011 | Nikon D70 | Tri kopy, Tatra Mountains, Slovakia | f/8, 1/320, ISO 200*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2011-003.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+**Lost in the fog**
+*August 2011 | Lúčna, Tatra Mountains, Slovakia | Nikon D70 | f/11, 1/160, ISO 200*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2011-002.jpg)
 **Fading**
-BRAKE *August 2011 | Southern Bohemia | Nikon D70 | f/4.3, 1/640, ISO 200*
+*August 2011 | Brestová, Tatra Mountains, Slovakia | Nikon D70 | f/8, 1/640, ISO 200*
+
+![Test](https://blog.zajicek.eu/assets/photos/2011-007.jpg)
+**Bled**
+*July 2011 | Lake Bled, Slovania | Nikon D70 | f/7.1, 1/800, ISO 20*
+
+![Test](https://blog.zajicek.eu/assets/photos/2011-006.jpg)
+**Descending the ski slope**
+*July 2011 | Kanin, Julian Alps, Slovenia | Nikon D70 | f/7.1, 1/640, ISO 200*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2011-001.jpg)
 **Searching for food**
