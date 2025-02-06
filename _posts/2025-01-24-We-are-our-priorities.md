@@ -20,4 +20,5 @@ The second option is more intriguing. It might involve small adjustments, like l
 
 If you’re unwilling to do either of these, that’s fine. Just, for the love of God, stop using the excuse of “I don’t have time.” Admit openly that you’d rather do something else. Don’t claim you “have to” tend to your garden instead of spending time with your grandchildren. You chose to have an elaborate garden; no external force dictated that. It’s a choice you made, and one you could change if you wanted. So please, don't act as if you lack free will, your preferences are clear to everyone else even if they're not stated out loud.
 
+#### Footnotes
 [^1]: Some people are particularly bad at optimizing for long term. By prioritizing for the short term, we frequently spend time on things that make us miserable in the long term. Without this fascinating flaw in human design, there would be no Facebook, no beer, no dumplings and no heroin, among many other things.
