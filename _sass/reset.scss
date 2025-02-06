@@ -87,13 +87,14 @@ hr {
 
 img {
   max-width: 1000px;
+  max-heigh: 95vh;
 }
 
-@media screen and (orientation: landscape) and (max-width: 1921px) {
-  img {
-    max-height: 600px;
-  }
-}
+//@media screen and (orientation: landscape) and (max-width: 1921px) {
+// img {
+//    max-height: 600px;
+//  }
+//}
 
 ol,
 ul {
