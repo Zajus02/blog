@@ -76,6 +76,7 @@ At first glance, this example may seem unrelated to maintenance, but the reverse
 
 We’ll explore less egregious examples another time.
 
+#### Footnotes
 [^1]: As is customary with Einstein quotes, this one is almost certainly fake. But who cares? I think he wouldn’t mind.
 [^2]: Specifically, it was about the impact of preventive maintenance on the availability and total operational cost of machinery in production. However, the same logic applies to anything subject to entropy (so, literally everything). A good example of this is visible in the auto industry, where car manufacturers have been extending the intervals for oil changes and regular maintenance to make the total cost of ownership for corporate fleets appear lower. Of course, this often results in engines running on dirty oil for extended periods, leaving the next owner with a car ready for a major repair.
 [^3]: Even if you pay in cash, you could argue the extra money could be invested elsewhere for better returns. But the point is the same: if you use all your money to buy a bigger house and then spend years building up savings for retirement, it’s just as silly as taking on a larger mortgage.
