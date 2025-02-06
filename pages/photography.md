@@ -52,10 +52,6 @@ permalink: /photography/
 **Strawberries**
 *May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-005.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
-
 ![Test](https://blog.zajicek.eu/assets/photos/2019-004.jpg)
 **Strawberries**
 *May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
@@ -125,10 +121,6 @@ permalink: /photography/
 *May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
 
 ![Test](https://blog.zajicek.eu/assets/photos/2011-006.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
-
-![Test](https://blog.zajicek.eu/assets/photos/2011-005.jpg)
 **Strawberries**
 *May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
 
