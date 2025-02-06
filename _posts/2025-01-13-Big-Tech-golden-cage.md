@@ -31,6 +31,7 @@ We are like a well-fed turkey. We are seemingly living a perfect life, with our 
 
 Or at the very least, have a plan B in case things go south and Zuck decides to squeeze us one last time.
 
+#### Footnotes
 [^1]: One would argue hunter-gatherers were freer, but remember they had to follow the habits of their tribe if they didn't want to die alone. Let's not idealize the past.
 [^2]: Big Tech is not evil by design. Like every other corporation, Big Tech is designed to maximize profit regardless of externalities. It just happens to be that they have come to a (probably correct) conclusion that doing evil things is the right strategy to achieve their profit goals.
 [^3]: Unlike other corporations, they are simply too fast for the governments to react with sensible and effective regulation, and thus reign free in a world where winner takes all and moats can be built quickly using other people's money. None of this, though, is what this text is meant to be about.
