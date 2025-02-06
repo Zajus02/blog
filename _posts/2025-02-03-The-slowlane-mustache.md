@@ -23,7 +23,7 @@ Rather than imagining an ideal lifestyle and reverse-engineering a way to financ
 
 #### Recommended reading
 1. [M.J. DeMarco - The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!](https://bookshop.org/p/books/the-millionaire-fastlane-crack-the-code-to-wealth-and-live-rich-for-a-lifetime-m-j-demarco/7035144?ean=9780984358106&next=t&next=t)
-2. [Mr. Money Mustashe](https://www.mrmoneymustache.com/)
+2. [Mr. Money Mustache](https://www.mrmoneymustache.com/)
 
 #### Footnotes
 [^1]: DeMarco delves into great depth about which types of businesses qualify for high-income potential. My takeaway is there are two key factors: control and scalability. Control—because if you don’t own the brand, you don’t own your customer relationships and can be cut off at any time. Scalability—because if you can only serve as many customers as your time allows, your business is merely a slightly better job. This section of the book is quite insightful and could serve as a useful Business 101 for many aspiring entrepreneurs. 
