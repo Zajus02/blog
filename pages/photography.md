@@ -76,91 +76,93 @@ permalink: /photography/
 **Strawberries**
 *May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
 
-![Test](https://blog.zajicek.eu/assets/photos/2017-001.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+BREAK
 
-![Test](https://blog.zajicek.eu/assets/photos/2016-003.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+![Galata Tower](https://blog.zajicek.eu/assets/photos/2017-001.jpg)
+**Galata Tower**
+*May 2017 | Samsung NX3000 | f/5.6, 1/160, ISO 100*
 
-![Test](https://blog.zajicek.eu/assets/photos/2016-002.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+![Low hanging snow](https://blog.zajicek.eu/assets/photos/2016-003.jpg)
+**Low hanging snow**
+*December 2016 | Southern Bohemia, Czech Republic | iPhone 5s*
 
-![Test](https://blog.zajicek.eu/assets/photos/2016-001.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+![Moss](https://blog.zajicek.eu/assets/photos/2016-002.jpg)
+**Moss**
+*November 2016 | Střední vrch, Lužické hory, Czech Republic | iPhone 5s*
 
-![Test](https://blog.zajicek.eu/assets/photos/2015-001.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+![A lo-fi ode to Jiří Všetečka](https://blog.zajicek.eu/assets/photos/2016-001.jpg)
+**A lo-fi ode to Jiří Všetečka**
+*January 2016 | Prague, Czech Republic | iPhone 5s*
 
-![Test](https://blog.zajicek.eu/assets/photos/2012-002.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+![Honza](https://blog.zajicek.eu/assets/photos/2015-001.jpg)
+**Honza**
+*June 2012 | Old Town Castle, Prague, Czech Republic | f/4.0, 1/200, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2012-001.jpg)
-**Strawberries**
-*May 2008 | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+![Structure](https://blog.zajicek.eu/assets/photos/2012-001.jpg)
+**Structure**
+*March 2012 | Southern Bohemia, Czech Republic | Nikon D70 | f/4.0, 1/400, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2011-010.jpg)
+![Chord](https://blog.zajicek.eu/assets/photos/2012-002.jpg)
+**Chord**
+*January 2012 | Prague, Czech Republic | Nikon D70 | f/2.5, 1/125, ISO 400*
+
+![Smoke](https://blog.zajicek.eu/assets/photos/2011-010.jpg)
 **Smoke**
-*September 2011 | Nikon D70 | Drábské světničky, Czech Repiblic | f/7.1, 1/1000, ISO 200*
+*September 2011 | Drábské světničky, Czech Repiblic | Nikon D70 | f/7.1, 1/1000, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2011-005.jpg)
+![National Theather](https://blog.zajicek.eu/assets/photos/2011-005.jpg)
 **National Theather**
 *September 2011 | Prague, Czech Republic | Nikon D70 | f/4.5, 1/8 ISO 800*
 
-![Test](https://blog.zajicek.eu/assets/photos/2011-004.jpg)
+![Ascending](https://blog.zajicek.eu/assets/photos/2011-004.jpg)
 **Ascending**
 *August 2011 | Brestová, Tatra Mountains, Slovakia | Nikon D70 | f/8, 1/250, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2011-008.jpg)
+![Ridgeway](https://blog.zajicek.eu/assets/photos/2011-008.jpg)
 **Ridgeway**
-*August 2011 | Nikon D70 | Tri kopy, Tatra Mountains, Slovakia | f/8, 1/320, ISO 200*
+*August 2011 | Tri kopy, Tatra Mountains, Slovakia | Nikon D70 | f/8, 1/320, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2011-003.jpg)
+![Lost in the fog](https://blog.zajicek.eu/assets/photos/2011-003.jpg)
 **Lost in the fog**
 *August 2011 | Lúčna, Tatra Mountains, Slovakia | Nikon D70 | f/11, 1/160, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2011-002.jpg)
+![Fading](https://blog.zajicek.eu/assets/photos/2011-002.jpg)
 **Fading**
 *August 2011 | Brestová, Tatra Mountains, Slovakia | Nikon D70 | f/8, 1/640, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2011-007.jpg)
+![Bled](https://blog.zajicek.eu/assets/photos/2011-007.jpg)
 **Bled**
 *July 2011 | Lake Bled, Slovania | Nikon D70 | f/7.1, 1/800, ISO 20*
 
-![Test](https://blog.zajicek.eu/assets/photos/2011-006.jpg)
+![Descending the ski slope](https://blog.zajicek.eu/assets/photos/2011-006.jpg)
 **Descending the ski slope**
 *July 2011 | Kanin, Julian Alps, Slovenia | Nikon D70 | f/7.1, 1/640, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2011-001.jpg)
+![Searching for food](https://blog.zajicek.eu/assets/photos/2011-001.jpg)
 **Searching for food**
 *July 2011 | Southern Bohemia | Nikon D70 | f/4.1, 1/1000, ISO 800*
 
-![Test](https://blog.zajicek.eu/assets/photos/2010-001.jpg)
+![Conversing with a ghost](https://blog.zajicek.eu/assets/photos/2010-001.jpg)
 **Conversing with a ghost**
 *July 2010 | Budapest, Hungary | Nikon D70 | f/4.5, 0.77s, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2009-003.jpg)
+![Colorful](https://blog.zajicek.eu/assets/photos/2009-003.jpg)
 **Colorful**
 *July 2009 | Dolomites | Nikon D70*
 
-![Test](https://blog.zajicek.eu/assets/photos/2009-002.jpg)
+![Oh HDR, thy outputs are dramatic](https://blog.zajicek.eu/assets/photos/2009-002.jpg)
 **Oh HDR, thy outputs are dramatic**
 *July 2009  | Dolomites | Nikon D70*
 
-![Test](https://blog.zajicek.eu/assets/photos/2009-001.jpg)
+![The Earth is slowly boiling](https://blog.zajicek.eu/assets/photos/2009-001.jpg)
 **The Earth is slowly boiling**
 *July 2009 | Dolomites | Nikon D70 | f/7.1, 1/800, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2008-002.jpg)
+![The Tunnel](https://blog.zajicek.eu/assets/photos/2008-002.jpg)
 **The Tunnel**
-*May 2008 | Southern Bohemia | Canon PowerShot S5 IS | f/3.5, 1/20, ISO 80*
+*May 2008 | Southern Bohemia, Czech Republic | Canon PowerShot S5 IS | f/3.5, 1/20, ISO 80*
 
-![Test](https://blog.zajicek.eu/assets/photos/2008-001.jpg)
+![Strawberries](https://blog.zajicek.eu/assets/photos/2008-001.jpg)
 **Strawberries**
-*May 2008 | Southern Bohemia | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
+*May 2008 | Southern Bohemia, Czech Republic | Canon PowerShot S5 IS | f/3.5, 1/400, ISO 80*
 
