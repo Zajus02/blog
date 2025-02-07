@@ -4,6 +4,8 @@ title: Photos
 permalink: /photos/
 ---
 
+Below is a selection of some of my favorite photos I took over the years.
+
 ![Explorers](https://blog.zajicek.eu/assets/photos/2020-004.jpg)
 **Explorers** | *December 2020* | *Děčinský sněžník, Czech Republic* | *Olympus E-M10 II* | *f/8.0, 1/80, ISO 200*
 
