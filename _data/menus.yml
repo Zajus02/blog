@@ -7,5 +7,8 @@
 - title: 'Photos'
   url: 'photos'
 
+- title: 'Music'
+  url: 'https://directionlessvector.bandcamp.com/'
+
 - title: 'RSS'
   url: 'feed.xml'
