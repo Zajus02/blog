@@ -75,7 +75,7 @@ Below is a selection of some of my favorite photos I took over the years.
 ![Honza](/assets/photos/2015-001.jpg)
 **Honza** | *June 2012* | *Old Town Castle, Prague, Czech Republic* | *f/4.0, 1/200, ISO 200*
 
-![Structure](assets/photos/2012-001.jpg)
+![Structure](/assets/photos/2012-001.jpg)
 **Structure** | *March 2012* | *Southern Bohemia, Czech Republic* | *Nikon D70* | *f/4.0, 1/400, ISO 200*
 
 ![Chord](/assets/photos/2012-002.jpg)
