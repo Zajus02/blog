@@ -10,6 +10,18 @@
   //font-family: space_monoregular, monospace;
 }
 
+@media screen and (max-width: 768px) {
+  .posts-list-item {
+    display: block;
+    position: relative;
+    line-height: 24px;
+    margin: 10px 0;
+    overflow: hidden;
+    font-size: 1.1em;
+    //font-family: space_monoregular, monospace;
+  }
+}
+
 .posts-list-item-name {
   width: calc(100% - 150px);
   font-weight: 300;
