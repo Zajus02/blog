@@ -4,41 +4,59 @@ title: Photos
 permalink: /photos/
 ---
 
-![Test](https://blog.zajicek.eu/assets/photos/2020-004.jpg)
+![Explorers](https://blog.zajicek.eu/assets/photos/2020-004.jpg)
+**Explorers** | *December 2020* | *Děčinský sněžník, Czech Republic* | *Olympus E-M10 II* | *f/8.0, 1/80, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2020-003.jpg)
+![Peaking](https://blog.zajicek.eu/assets/photos/2020-003.jpg)
+**Peaking** | *June 2020* | *Medvědí hůrka, Lužické hory, Czech Republic* | *Olympus E-M10 II* | *f/7.1, 1/200, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2020-002.jpg)
+![Idyllic](https://blog.zajicek.eu/assets/photos/2020-002.jpg)
+**Idyllic** | *June 2020* | *Zahrádky, Czech Republic* | *Olympus E-M10 II* | *f/7.1, 1/800, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2020-001.jpg)
+![Wrinkles](https://blog.zajicek.eu/assets/photos/2020-001.jpg)
+**Wrinkles** | *March 2020* | *Amager Strand, Copenhangen, Denmark* | *Olympus E-M10 II* | *f/5.6, 1/800, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-015.jpg)
+![Autumn](https://blog.zajicek.eu/assets/photos/2019-012.jpg)
+**Autumn** | *October 2019* | *Ovčácký vrch, Lužické hory, Czech Republic* | *Olympus E-M10 II* | *f/7.1, 1/400, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-014.jpg)
+![The see-through tram](https://blog.zajicek.eu/assets/photos/2019-011.jpg)
+**The see-through tram** | *October 2019* | *National Theather, Prague, Czech Republic* | *Olympus E-M10 II* | *f/3.5, 0.33s, ISO 500*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-013.jpg)
+![Last sunshine](https://blog.zajicek.eu/assets/photos/2019-015.jpg)
+**Last sunshine** | *September 2019* | *Klíč, Lužické hory, Czech Republic* | *Samsung NX3000*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-012.jpg)
+![Disappearing](https://blog.zajicek.eu/assets/photos/2019-014.jpg)
+**Disappearing** | *September 2019* | *Klíč, Lužické hory, Czech Republic* | *Samsung NX3000* | *f/4.0, 1/640, ISO 100*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-011.jpg)
+![Car-wash](https://blog.zajicek.eu/assets/photos/2019-013.jpg)
+**Car-wash** | *September 2019* | *Klíč, Lužické hory, Czech Republic* | *Samsung NX3000* | *f/5.6, 1/320, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-007.jpg)
+![The entrance to eternity I](https://blog.zajicek.eu/assets/photos/2019-006.jpg)
+**The entrance to eternity I** | *September 2019* |  *Moni Kirias, Crete, Greece* | *Samsung NX3000* | *f/5.6, 1/200, ISO 100*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-006.jpg)
+![Smooth](https://blog.zajicek.eu/assets/photos/2019-005.jpg)
+**Smooth** | *September 2019* |  *Chania, Crete, Greece* | *Samsung NX3000* | *f/7.1, 8s, ISO 100*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-005.jpg)
+![Inhospitable](https://blog.zajicek.eu/assets/photos/2019-004.jpg)
+**Inhospitable** | *September 2019* |  *Gingilos, Crete, Greece* | *Samsung NX3000* | *f/5.6, 1/200, ISO 100*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-004.jpg)
+![Copy - paste - paste - paste](https://blog.zajicek.eu/assets/photos/2019-003.jpg)
+**Copy - paste - paste - paste** | *September 2019* |  *Tripiti Koules, Crete, Greece* | *Samsung NX3000* | *f/7.1, 1/500, ISO 100*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-003.jpg)
+![The entrance to eternity II](https://blog.zajicek.eu/assets/photos/2019-002.jpg)
+**The entrance to eternity II** | *September 2019* |  *Monastery of Preveli, Crete, Greece* | *Samsung NX3000* | *f/5.6, 1/500, ISO 100*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-002.jpg)
+![Escaping the death star](https://blog.zajicek.eu/assets/photos/2019-001.jpg)
+**Escaping the death star** | *September 2019* |  *Agios Pavlos, Crete, Greece* | *Samsung NX3000* | *f/3.5, 1/250, ISO 800*
 
-![Test](https://blog.zajicek.eu/assets/photos/2019-001.jpg)
+![Rabbit's view of the world](https://blog.zajicek.eu/assets/photos/2019-007.jpg)
+**Rabbit's view of the world** | *August 2019* | *Orlické hory, Czech Republic* | *Nikon D70* | *f4.2, 1/50, ISO 200*
 
-![Test](https://blog.zajicek.eu/assets/photos/2018-002.jpg)
+![Sand and stone](https://blog.zajicek.eu/assets/photos/2018-002.jpg)
+**Sand and stone** | *November 2018* | *Kerak castle, Jordan* | *iPhone 5s*
 
-![Test](https://blog.zajicek.eu/assets/photos/2018-001.jpg)
+![Chess pieces](https://blog.zajicek.eu/assets/photos/2018-001.jpg)
+**Chess pieces** | *November 2018* | *Wadi-rum desert, Jordan* | *iPhone 5s*
 
 ![Galata Tower](https://blog.zajicek.eu/assets/photos/2017-001.jpg)
 **Galata Tower** | *May 2017* | *Istanbul, Turkey* | *Samsung NX3000* | *f/5.6, 1/160, ISO 100*
