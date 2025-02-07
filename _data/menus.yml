@@ -4,5 +4,8 @@
 - default: menu_about
   url: 'about'
 
+- title: 'Photos'
+  url: 'photos'
+
 - title: 'RSS'
   url: 'feed.xml'
