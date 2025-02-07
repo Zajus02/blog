@@ -6,10 +6,10 @@ permalink: /photos/
 
 Below is a selection of some of my favorite photos I took over the years.
 
-![Explorers](https://blog.zajicek.eu/assets/photos/2020-004.jpg)
+![Explorers](https://zajus02.github.io/assets/photos/2020-004.jpg)
 **Explorers** | *December 2020* | *Děčinský sněžník, Czech Republic* | *Olympus E-M10 II* | *f/8.0, 1/80, ISO 200*
 
-![Peaking](https://blog.zajicek.eu/assets/photos/2020-003.jpg)
+![Peaking](/assets/photos/2020-003.jpg)
 **Peaking** | *June 2020* | *Medvědí hůrka, Lužické hory, Czech Republic* | *Olympus E-M10 II* | *f/7.1, 1/200, ISO 200*
 
 ![Idyllic](https://blog.zajicek.eu/assets/photos/2020-002.jpg)
