@@ -24,6 +24,12 @@
   //font-family: space_monoregular, monospace;
   margin-top: 5px;
   //margin-bottom: 5px;
+  -webkit-transform:rotateY(180deg);
+  -moz-transform:rotateY(180deg);
+  -o-transform:rotateY(180deg);
+  -ms-transform:rotateY(180deg);
+  unicode-bidi:bidi-override;
+  direction:rtl;
 }
 
 .header-info-desc {
