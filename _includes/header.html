@@ -6,9 +6,9 @@
   <!--<<span class="header-info-desc">{{ site.description }}</span>-->
 </div>
 <nav class="header-nav">
-  <ul class="header-main-nav">
+  <div class="header-main-nav">
     {% for item in site.data.menus %}
-    <li class="header-main-nav-item">
+    <span class="header-main-nav-item">
       <a href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}">
         {% if item.default %}
           {{site.data.lang[site.language][item.default]}}
@@ -16,7 +16,7 @@
           {{ item.title }}
         {% endif %}
       </a>
-    </li>
+    </span>
     {% endfor %}
-  </ul>
+  </div>
 </nav>
