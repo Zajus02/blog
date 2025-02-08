@@ -5,9 +5,9 @@
   <!--<<span class="header-info-desc">{{ site.description }}</span>-->
 </div>
 <nav class="header-nav float-center">
-  <ul class="header-main-nav">
+  <ul class="header-main-nav float-center">
     {% for item in site.data.menus %}
-    <li class="header-main-nav-item">
+    <li class="header-main-nav-item float-center">
       <a href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}">
         {% if item.default %}
           {{site.data.lang[site.language][item.default]}}
