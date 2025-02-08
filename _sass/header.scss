@@ -36,12 +36,16 @@
   //font-family: space_monoregular, monospace;
 }
 
+.header-nav {
+  display: block;
+  position: absolute;
+  float: center;
+  text-align: center;
+}
+
 .header-main-nav {
   margin: 0px auto;
   list-style: none;
-  display: block;
-  position: relative;
-  float: center;
 }
 
 .header-main-nav-item {
