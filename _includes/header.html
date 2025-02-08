@@ -7,7 +7,7 @@
   <div class="header-main-nav">
     {% for item in site.data.menus %}
     <!--<span class="header-main-nav-item">-->
-      <a class="header-main-nav-item href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}">
+      <a class="header-main-nav-item" href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}">
         {% if item.default %}
           {{site.data.lang[site.language][item.default]}}
         {% else %}
