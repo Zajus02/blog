@@ -4,7 +4,7 @@
 - default: menu_about
   url: 'about'
 
-- title: 'Photos'
+- title: 'PHOTOS'
   url: 'photos'
 
 - title: 'RSS'
