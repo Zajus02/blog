@@ -34,12 +34,15 @@
 .header-main-nav {
   margin: 0px auto;
   list-style: none;
+  display: block;
+  position: relative;
+  float: center;
 }
 
 .header-main-nav-item {
   display: block;
   position: relative;
-  float: center;
+  float: left;
   line-height: 24px;
   margin: 0 10px;
   font-size: 1.2em
