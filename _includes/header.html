@@ -5,16 +5,21 @@
 </div>
 <nav class="header-nav">
   <div class="header-main-nav">
-    {% for item in site.data.menus %}
-    <!--<span class="header-main-nav-item">-->
-      <a class="header-main-nav-item" href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}">
+    <!-- {% for item in site.data.menus %}
+    <span class="header-main-nav-item">
+      <a href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}">
         {% if item.default %}
           {{site.data.lang[site.language][item.default]}}
         {% else %}
           {{ item.title }}
         {% endif %}
       </a>
-    <!--</span>-->
-    {% endfor %}
+    </span>
+    {% endfor %} -->
+      <a class="header-main-nav-item" href="https://zajicek.eu/">Posts</a>
+      <a class="header-main-nav-item" href="https://zajicek.eu/about">About</a>
+      <a class="header-main-nav-item" href="https://zajicek.eu/photos">Photos</a>
+      <a class="header-main-nav-item" href="https://zajicek.eu/feed.xml">RSS</a>
+    {% endfor %} -->
   </div>
 </nav>
