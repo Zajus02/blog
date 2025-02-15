@@ -63,6 +63,6 @@ In summary, streaming services are the best thing that has happened to music lis
 #### Footnotes
 [^1]: As a fan of music where songs often reach a duration of twenty minutes, I don't find it fair to reward the artists per song. I don't think a twenty minute suite of multiple movements deserves to get paid by the same amount as a "verse-chorus-verse-chorus-bridge-chorus" three minute radio single.
 
-[^2]: Since "almost no money" I raised through Bandcamp is infinitely more money than "no money" I got from all streaming services combined.
+[^2]: Coincidentally, this nicely correlates with the $0.00318 payout per stream for Spotify mentioned in [this](https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/) article for an average 3 minute track.
 
-[^3]: Coincidentally, this nicely correlates with the $0.00318 payout per stream for Spotify mentioned in [this](https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/) article for an average 3 minute track.
+[^3]: Since "almost no money" I raised through Bandcamp is infinitely more money than "no money" I got from all streaming services combined.
