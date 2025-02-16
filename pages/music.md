@@ -8,6 +8,6 @@ permalink: /music/
 
 The music is built on eclectic tastes developed over several decades of exploring the vast realms music has to offer. Inspired by the works of Thy Catafalque, Porcupine Tree, Der Weg Einer Freiheit, Nils Frahm, Anathema, and Sigh, among many others, the album is an intentional blend that weaves together my many musical influences.
 
-Listen below through [Bandcamp]([url](https://directionlessvector.bandcamp.com/album/explorations)), or stream on [Spotify]([url](https://open.spotify.com/album/4SeJmopZg4QcNGTL5NYKGh)) or any other streaming service.
+Listen below through [Bandcamp](https://directionlessvector.bandcamp.com/album/explorations), or stream on [Spotify](https://open.spotify.com/album/4SeJmopZg4QcNGTL5NYKGh) or any other streaming service.
 
 <center><iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=4222104246/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://directionlessvector.bandcamp.com/album/explorations">Explorations by Directionless Vector</a></iframe></center>
