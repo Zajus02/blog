@@ -10,4 +10,4 @@ The music is built on eclectic tastes developed over several decades of explorin
 
 Listen below through [Bandcamp]([url](https://directionlessvector.bandcamp.com/album/explorations)), or stream on [Spotify]([url](https://open.spotify.com/album/4SeJmopZg4QcNGTL5NYKGh)) or any other streaming service.
 
-<center><iframe style="border: 0; width: 765px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=4222104246/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="https://directionlessvector.bandcamp.com/album/explorations">Explorations by Directionless Vector</a></iframe></center>
+<center><iframe style="border: 0; width: 765px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=4222104246/size=large/bgcol=fff2cc/linkcol=cd0f19/artwork=small/transparent=true/" seamless><a href="https://directionlessvector.bandcamp.com/album/explorations">Explorations by Directionless Vector</a></iframe></center>
