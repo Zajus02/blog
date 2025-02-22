@@ -20,5 +20,6 @@ Hari generally advocates for the legalization of drugs, though he acknowledges u
 These are just some of Hari’s arguments that intuitively make sense to me. I have not delved deeper into the topic or fact-checked his claims—fortunately, my opinion on the matter holds no real influence. Ideally, we would live in a world where no one felt the need to use drugs or alcohol, but it is naive to think that repression and denial are effective strategies. The right way to legalize hard drugs is not to make them readily available in corner stores but to provide them through controlled services that include safe spaces, medical supervision, and counseling. As for lighter substances like marijuana or ecstasy, there is no logical reason to treat them any differently than alcohol, as they are significantly less harmful.
 
 Ultimately, we are choosing between two bad options. In one, we take the path of prohibition, achieve nothing, and surrender control to criminal enterprises. In the other, we acknowledge the problem while maintaining at least some degree of regulation and oversight. When framed this way, the choice seems clear.
-#### Further Reading:
+
+#### Further Reading
 [Johann Hari - Chasing the Scream: The First and Last Days of the War on Drugs](https://bookshop.org/p/books/chasing-the-scream-the-inspiration-for-the-feature-film-the-united-states-vs-billie-holiday-johann-hari/7178458?ean=9781620408919&next=t&next=t)
