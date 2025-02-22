@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How extra floor space makes your life miserable
+title: Extra floor space = miserable life
 date: 2024-09-12
 categories: Ramblings
 tags:
