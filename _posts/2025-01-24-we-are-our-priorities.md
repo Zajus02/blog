@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's not a question of time. It's a question of priorities.
+title: We are our priorities
 date: 2025-01-24
 categories: Life Philosophy
 tags:
