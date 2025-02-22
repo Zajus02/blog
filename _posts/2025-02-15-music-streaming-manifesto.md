@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Dream Music Streaming Service
+title: Music streaming for album people 
 date: 2025-02-15
 categories: Technology
 tags:
