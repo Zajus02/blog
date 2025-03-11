@@ -1,0 +1,22 @@
+---
+layout: post
+title: Mass produced scarcity
+date: 2025-03-11
+categories: Ramblings
+tags:
+---
+An assembly of odd figures gathers every weekend in a public hall near my home. There is no single unifying factor to their strangeness that manifests outwardly, yet you can easily distinguish them from random passersby. Only when you see what is happening inside the hall do you realize that they are collectors. Each weekend brings a different sort—my favorite being the collectors of "curiosities." A strange habit indeed: collecting items whose only commonality is their strangeness.
+
+An aspect of my personality that seems to grow stronger with age is my aversion to physical items whose only purpose is to be owned. With the exception of a limited number of art pieces (using "art" generously here—essentially, anything that brings joy to the beholder without serving a practical purpose), I see no benefit in owning something one does not use. Yet, I can still understand the appeal of owning rare objects—perhaps the only remaining piece of porcelain made by a certain craftsman. Especially when such items are historical, connecting us to the past, they hold genuine value due to their scarcity and some may be drawn to it.
+
+What I do not understand is when scarcity itself is mass-produced. I would have thought that if there was one area where global corporations could not surpass independent craftsmen, it would be in the uniqueness and exclusivity of their products. Some people will value a handmade kitchen cabinet more than one purchased at IKEA, even if the former costs twice as much—despite both serving the same function and being, for all intents and purposes, 95% identical. But imagine IKEA producing a limited run of their kitchen cabinets, selling them only to a small number of individuals at increased prices. It makes no sense and goes against their business model. Yet, other big corporations do exactly that—and successfully so.
+
+Within my favorite industry, music, artificial scarcity plays a critical role in sales strategy. Vinyl records are printed in limited quantities and sold at a premium due to their rarity—only to be reprinted once the first batch sells out. The best-selling albums are released in twenty different versions, each seemingly "limited" to a small number of units—yet they are all the same, just printed in different colors to create an illusion of uniqueness. Promoters buy tickets to their own shows to reduce the number available on the market, only to resell them later at inflated prices on the secondary market.
+
+Giant clothing corporations do the same—selling limited runs of clothing distinguished solely by their association with a famous figure, often at exorbitant prices. Sneakers are the most well-known example[^1], but nearly everything undergoes this treatment. Every major video game release these days includes a "limited" edition that costs many times more than the standard version, offering little more than a cheaply produced, semi-relevant trinket in the package. Even food is sold in limited editions—identical products in different packaging, designed to boost sales. You can even buy a Volkswagen vehicle in a limited edition, though despite my best efforts, I have yet to determine how it differs from the "unlimited" edition—or whether there is an actual limit to the quantity sold.
+
+What baffles me most is that some of these items retain—or even increase—their exclusivity over time. A secondary market thrives where collectors trade mass-produced items that were originally created in artificially scarce quantities. Sneakers appreciate in value. A purple vinyl record can sell for ten times the price of a regular black one, despite containing the same music in the same quality. The substance remains identical, yet the form accounts for 90% of its value. Mass-produced junk becomes "unique" through minor variations in the production process. Yet at its core, it remains junk.
+
+There is no grand lesson here. I am simply, as always, baffled by my fellow human beings.
+#### Footnotes
+[^1]: I recommend watching [this](https://www.youtube.com/watch?v=DejLNt-YtD8) fascinating window into a world of sneaker resellers.
