@@ -25,10 +25,10 @@ A large portion of Source Code is devoted to Gates' college years and, in parall
 
 Lately, I’ve been thinking a lot about startup culture and how it rewards shallowness and reach over impact and longevity. Tech companies are incentivized to grow their user base without regard for monetization. As Peter Thiel outlines in _From Zero to One_, the typical goal is to capture the market, build a moat, and only then start thinking about profit. The business plan often looks like this:
 
-*Step one: Build a minimum viable product*
-*Step two: Grow grow grow*
-*Step three: TBD*
-*Step four: Profit*
+1. Build a minimum viable product
+2. Grow grow grow
+3. TBD
+4. Profit
 
 This leads to the now-familiar cycle of enshittification: companies launch with great services and no clear way to make money. Eventually, `when reality catches up, they cripple their offerings` to the point where they’re either replaced by newer, better-funded startups or become worse than the “old world” companies they were supposed to disrupt.
 
