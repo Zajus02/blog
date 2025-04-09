@@ -2,7 +2,7 @@
 layout: post
 title: The Slowlane Mustache
 date: 2025-02-03
-categories: Life Philosophy
+categories: Books
 tags:
 ---
 As far as personal finance goes, I am a Mustachian through and through. Make decent money, live frugally, invest wisely, and you can be fairly sure you’ll end up financially secure—even if not necessarily retired at 35, as many dream of. The entire logic behind building wealth is simply a matter of the income-to-spending ratio. The math is easy enough: if you spend every euro you make, you will inevitably never accumulate any wealth. However, if you only spend a small portion of your income and invest the rest, eventually the returns on these investments will grow enough to sustain your frugal lifestyle indefinitely.
