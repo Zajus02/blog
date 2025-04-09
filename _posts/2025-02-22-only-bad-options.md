@@ -2,7 +2,7 @@
 layout: post
 title: No good options
 date: 2025-02-22
-categories: Ramblings
+categories: Books
 tags:
 ---
 As far as drugs are concerned, consider me completely ignorant. As someone who is nearly abstinent and has no interest in hard drugs, I never found the topic worth deep investigation. So, I have no idea how _Chasing the Scream_ ended up on my reading list. Yet, I picked it up, and despite my initial lack of interest in the topic, I was surprisingly convinced by its arguments. In his now ten-year-old work, Johann Hari manages to fight on two fronts. First, he paints a vivid picture of drug users, portraying them as troubled human beings deserving of compassion. Second, he presents hard facts to argue that, regardless of the moral debate, the current global approach to drug policy is ineffective and causes more harm than good.
